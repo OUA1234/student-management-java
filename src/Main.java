@@ -1,3 +1,7 @@
+import model.Student;
+import service.StudentManager;
+
+
 import java.util.Scanner;
 
 public class Main {

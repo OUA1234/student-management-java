@@ -1,1 +1,2 @@
-*.classgit 
+*.class
+out/ 
